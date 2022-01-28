@@ -1,10 +1,10 @@
 # arwes-native
 Expo React Native Social Media Software 
 
-Required:--
-    1. Node js 
-    2. Expo 
-    3. Firebase (node package)
+# Required:--
+1. Node js 
+2. Expo 
+3. Firebase (node package)
 
 For Using arwes Create a firebase Account in firebase console and start a web project
 
